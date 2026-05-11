@@ -1,10 +1,10 @@
 {
-  "projectId": "gen-lang-client-0107480985",
-  "appId": "1:799853358188:web:d424512b477e92e3c2fc49",
-  "apiKey": "AIzaSyB-i2AyE7fv8F1Rt1JqkC9Pzf24dGAk3nc",
-  "authDomain": "gen-lang-client-0107480985.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-1d554a31-5de1-4689-a1c3-50f400f4fddd",
-  "storageBucket": "gen-lang-client-0107480985.firebasestorage.app",
-  "messagingSenderId": "799853358188",
-  "measurementId": ""
+  "projectId": "ecbmart-website",
+  "appId": "1:551191105237:web:1ee0f559ddc307ee761c5c",
+  "apiKey": "AIzaSyDK6HoTRaK5TtcdG753n53UXQfXVOdm5kQ",
+  "authDomain": "ecbmart-website.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "ecbmart-website.firebasestorage.app",
+  "messagingSenderId": "551191105237",
+  "measurementId": "G-ZWJRQCQBV8"
 }
