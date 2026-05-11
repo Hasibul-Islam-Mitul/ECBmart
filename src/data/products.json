@@ -1,0 +1,50 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Organic Sundarban Honey",
+    "price": 850,
+    "category": "Food",
+    "description": "Pure, raw honey collected from the heart of Sundarbans.",
+    "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=400&h=400"
+  },
+  {
+    "id": "prod_2",
+    "name": "Golden Cow Ghee",
+    "price": 1200,
+    "category": "Food",
+    "description": "Traditional home-made ghee with rich aroma and golden texture.",
+    "imageUrl": "https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?auto=format&fit=crop&q=80&w=400&h=400"
+  },
+  {
+    "id": "prod_3",
+    "name": "Mineral Sunscreen SPF 50+",
+    "price": 1450,
+    "category": "Cosmetics",
+    "description": "Broad spectrum protection with a non-greasy finish.",
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=400&h=400"
+  },
+  {
+    "id": "prod_4",
+    "name": "Interactive Educational Robot",
+    "price": 3500,
+    "category": "Toys",
+    "description": "STEM-certified learning tool for kids aged 5-10.",
+    "imageUrl": "https://images.unsplash.com/photo-1535572290543-960a8046f5af?auto=format&fit=crop&q=80&w=400&h=400"
+  },
+  {
+    "id": "prod_5",
+    "name": "Smart Health Tracker V2",
+    "price": 5500,
+    "category": "Electronics",
+    "description": "Monitor your vitals with precision and style.",
+    "imageUrl": "https://images.unsplash.com/photo-1508685096489-775b34907153?auto=format&fit=crop&q=80&w=400&h=400"
+  },
+  {
+    "id": "prod_6",
+    "name": "Natural Rosehip Oil",
+    "price": 950,
+    "category": "Cosmetics",
+    "description": "A luxury botanical treatment for glowing skin.",
+    "imageUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&q=80&w=400&h=400"
+  }
+]
